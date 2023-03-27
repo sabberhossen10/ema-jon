@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    background-color:#1C2B35;
+    align-items: center; 
+    padding:20px 50px;
+    justify-content: space-between;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.header a:hover{
+    color: tomato;
+}
