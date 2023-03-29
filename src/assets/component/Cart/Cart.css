@@ -1,0 +1,9 @@
+.cart-container{
+background-color:#efdcbf;
+padding: 25px;
+position: sticky;
+top: 0;
+}
+.cart-container p{
+    font-size: 18px;
+}
